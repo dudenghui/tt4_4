@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="pitch">pitch.png</file>
+        <file alias="rolling">rolling.png</file>
+    </qresource>
+</RCC>

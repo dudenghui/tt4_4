@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>duo.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/database">
+        <file alias="DB">navigation_DB.db</file>
+    </qresource>
+</RCC>
